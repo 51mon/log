@@ -1,0 +1,6 @@
+{
+  "name": "log",
+  "version": 0.1,
+  "repository": "git@github.com:51mon/log.git",
+  "main": "./log"
+}
